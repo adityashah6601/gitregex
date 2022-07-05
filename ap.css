@@ -19,6 +19,8 @@ A:hover {
  color:cadetblue;
  text-decoration: underline;
 }
+body:hover{
+    color: blueviolet;
 button{
 size: 200000px;
 background-color:darkslategray ;
